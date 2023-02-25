@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstComposeApp</string>
+    <string name="loading">Loading, wait please</string>
+</resources>
